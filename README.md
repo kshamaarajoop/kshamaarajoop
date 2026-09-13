@@ -6,12 +6,6 @@
 
 **Building, breaking, and understanding systems from the packets up.**
 
-<p>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&label=Profile+Views" />
-</p>
 
 </div>
 
