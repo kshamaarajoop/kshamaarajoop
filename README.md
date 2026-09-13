@@ -20,9 +20,7 @@
 ## `$ whoami`
 
 I'm a Computer Science Engineering student exploring the intersection of **computer networks, cybersecurity, systems, and automation**.
-
-Currently working towards my **CCNA**, building practical networking labs, experimenting with security tooling, and learning how infrastructure can be automated and made more resilient.
-
+Currently working towards my **CCNA**, building practical networking labs, experimenting with security tooling, and learning how infrastructure can be automated and made more resilient and I enjoy turning old hardware into useful infrastructure!
 I'm super interested in what happens **under the hood** — from packets moving across a network to systems detecting, responding to, and recovering from incidents.
 
 ---
@@ -52,16 +50,16 @@ I'm super interested in what happens **under the hood** — from packets moving 
 ---
 
 ## 🛠️ Tech Stack
-
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Networking & Security
+### 🌐 Networking & Security
 
 <p>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -70,46 +68,45 @@ I'm super interested in what happens **under the hood** — from packets moving 
 <img src="https://img.shields.io/badge/Wazuh-3B82F6?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
-### Systems & Tools
+### ⚙️ Systems & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### Embedded & IoT
+### 🔌 Embedded & IoT
 
 <p>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
-</p>
-
+<img src="https://img.shields.io/badge/MQTT-660066?style=
 ---
 
+## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=kshamaarajoop&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
 
-<a href="https://github.com/yourusername">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=transparent" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshamaarajoop&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com/?user=kshamaarajoop&hide_border=true&theme=transparent" height="170"/>
 
 </div>
+
 
 ---
 
