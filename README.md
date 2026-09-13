@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Kshamaa
+# Yo, I'm Kshamaa
 
 ### `Computer Science Engineer` · `Networking` · `Cybersecurity` · `Systems`
 
