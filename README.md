@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yo, I'm Kshamaa
+# I'm Kshamaa
 
 ### `Computer Science Engineer` · `Networking` · `Cybersecurity` · `Systems`
 
@@ -26,7 +26,7 @@ I'm super interested in what happens **under the hood** — from packets moving 
 
 ```text
                     ┌──────────────────────┐
-                    │     SYSTEMS & NETS    │
+                    │    SYSTEMS & NETS    │
                     └──────────┬───────────┘
                                │
               ┌────────────────┼────────────────┐
@@ -46,7 +46,7 @@ I'm super interested in what happens **under the hood** — from packets moving 
 
 ## 📡 psspss
 
-One of the things I enjoy most is taking a machine from an old PC →  a server doing something useful.
+One of the things I enjoy most is taking a machine that is an old PC →  a server doing something useful.
 
 Things I've experimented with:
 ```
